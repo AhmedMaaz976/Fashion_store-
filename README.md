@@ -59,16 +59,7 @@ Optional: seed sample data (admin + products):
 node seeder.js        # import
 node seeder.js -d     # destroy
 ```
-Default admin after seeding:
-```
-Email: admin@example.com
-Password: admin123
-```
 
-Health check:
-```
-GET http://localhost:5000/api/health
-```
 
 ### 2) Frontend Setup
 In a second terminal:
@@ -131,4 +122,4 @@ Active. Planned enhancements: Stripe payments, admin dashboard, analytics, CI/CD
 ## License
 ISC
 
-# Fashion_store-
+# ====================================> Fashion_store-Website ====================================>
